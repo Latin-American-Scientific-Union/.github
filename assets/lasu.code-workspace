@@ -1,0 +1,25 @@
+{
+    "folders": [
+		{
+			"name": "webhost",
+			"path": "../Proyectos VSC/LASU/webhost"
+		},
+		{
+			"name": "LRL",
+			"path": "../Proyectos VSC/LASU/LRL"
+		},
+		{
+			"name": "calculadora-cientifica",
+			"path": "../Proyectos VSC/CalculadoraCientifica/calculadora-cientifica"
+		},
+		{
+			"path": "../Proyectos VSC/LASU/wiki"
+		},
+		{
+			"path": "../Proyectos VSC/LASU/LASU"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "calculadora-cientifica"
+    }
+}
